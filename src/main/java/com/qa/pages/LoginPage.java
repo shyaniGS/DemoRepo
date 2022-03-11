@@ -1,6 +1,6 @@
 package com.qa.pages;
 
-public class LoginPaage 
+public class LoginPage 
 {
 	public void loginpage()
 	{
@@ -11,5 +11,9 @@ public class LoginPaage
 	{
 		System.out.println("Login Set");
 	}
-
+	
+	public void loginNew()
+	{
+		System.out.println("Login New");
+	}
 }
